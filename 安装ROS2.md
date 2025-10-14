@@ -8,3 +8,4 @@
 
 5.打开终端，按照官方教程进行安装
 
+语雀链接https://www.yuque.com/u59714887/thp4hi/rl0y8m4qluw0zic4
